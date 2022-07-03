@@ -1,5 +1,4 @@
-# Business Case
-## Welcome to the Business-Analytics Repo🤓
+# Welcome to the Business-Analytics Repo🤓
 **Introducction**
 
 Inside this repo, will you find the work structure and short explanation about it.
@@ -9,19 +8,22 @@ Inside this repo, will you find the work structure and short explanation about i
 
 ![](https://img.shields.io/github/stars/juanmcarrillo14/Business-Analytics?style=social) ![](https://img.shields.io/badge/Creator-Juan-red) ![](https://img.shields.io/badge/Country-Mexico-green)
 
-Twitter: @juanhernandez9
-Location: Zapopan, Jalisco
+**Twitter: @juanhernandez9
+Location: Zapopan, Jalisco**
 
 ## Repo Structure
 
 ```
 Business-Analytics 
 └───rappi
-   │   challenge.ipynb
-   │   bi_config.py
-   |   BusinessBIBA_Challenge.csv
-   |   rappi_data
-   |   requirements.txt
+|  |
+|  │   challenge.ipynb
+|  │   bi_config.py
+|  |   BusinessBIBA_Challenge.csv
+|  |   rappi_data
+|  |   requirements.txt
+|
+────README.md
 ```
 
 ## Files Descriptions
@@ -30,6 +32,11 @@ Business-Analytics
 |-----------|:-----------:  
 challenge.upynb |  Developed work where you'll find the challenge questions and analysis.    
 bi_config.py | Rappi class that include statics method for creating database, query format, and more about sql connection.  
-BusinessBIBA_Challenge.csv | The reason of rejection OR the type of card.   
+BusinessBIBA_Challenge.csv | Main data source.   
 rappi_data |  Database created in local directory.  
-requirements.txt | Install necessary dependices for carrying out BI configuration.  
+requirements.txt | Install necessary dependencies for carrying out BI configuration.  
+
+
+# Enjoy this project!
+
+
